@@ -16,3 +16,13 @@
   font-family: 'Montserrat', sans-serif;
   font-size: 12px !important;
 }
+.inline-buttons {
+  display: flex;
+  flex-direction: row;
+}
+.inline-buttons .btn-1 {
+  float: left;
+}
+.inline-buttons .btn-2 {
+  float: right;
+}

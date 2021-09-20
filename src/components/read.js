@@ -37,7 +37,6 @@ export default function Read() {
 
     return (
         <div>
-        <a href="/create" ><Button>Add New Data</Button></a>
             <Table singleLine>
                 <Table.Header>
                     <Table.Row>
