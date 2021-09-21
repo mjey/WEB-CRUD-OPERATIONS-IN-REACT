@@ -11,6 +11,7 @@ function App() {
       <div className="main">
         <h2 className="main-header">Simple React app to perform crud operations</h2>
         <div className="inline-buttons">
+          <a className="btn-1" href="/Home" > <Button>Home</Button> </a>
           <a className="btn-1" href="/create" > <Button>Add new Data</Button> </a>
           <a className="btn-2" href="/read" > <Button>Display stored data</Button> </a>
           </div>
